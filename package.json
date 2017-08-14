@@ -1,0 +1,34 @@
+{
+  "name": "ui-autocomplete",
+  "main": "autocomplete.js",
+  "version": "0.6.1",
+  "homepage": "https://github.com/zensh/ui-autocomplete",
+  "authors": [
+    "Yan Qing <admin@zensh.com>"
+  ],
+  "description": "AngularJS Autocomplete, wrapper for the jQuery UI Autocomplete Widget!",
+  "keywords": [
+    "AngularJS",
+    "Autocomplete",
+    "jQuery UI"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miketoth/ui-autocomplete.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/miketoth/ui-autocomplete/issues"
+  }
+}
